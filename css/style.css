@@ -654,14 +654,15 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #services .box .btn-projects {
-  background: none;
+  background: green;
+  color: white;
   border: 5px solid green;
 }
 
 #services .box .btn-projects:hover {
-  background: green;
-  color: #50d8af;
-  border: none;
+  background: red;
+  color: white;
+  border-color: red;
 }
 
 
